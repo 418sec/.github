@@ -23,7 +23,3 @@ _Replay the vulnerability exploit to show the successful fix and mitigation of t
 ### 👍 User Acceptance Testing (UAT)
 
 _Run a unit test or a legitimate use case to prove that your fix does not introduce breaking changes._
-
-### 🔗 Relates to...
-
-_Provide the URL of the PR for the disclosure that this fix relates to._
